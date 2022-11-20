@@ -5,13 +5,16 @@ header {
     background: white;
     padding: 20px 0;
 }
-#logo { width: 30%;}
+#logo { 
+    width: 25%;
+}
 nav {
     position: absolute;
     top:0px;
     right: 0px;
 }
-nav li{ display: inline;
+nav li{ 
+    display: inline;
     margin: 0 0 0 15px;
     }
 nav a {
