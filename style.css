@@ -32,8 +32,8 @@ h1 {
     color: #D3D3D3;
     text-align: center;
 }
-h2 {
-    color: #483D8B;
+h2 { text-align: center;
+    color: #f2f1f5;
 }
 p {
     color:  #5F9EA0;
