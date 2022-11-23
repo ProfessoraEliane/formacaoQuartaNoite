@@ -22,7 +22,7 @@ nav a {
         text-transform: uppercase;
         font-weight: bold;
     }
-.menu {position: absolute;
+.menu {position: relative;
 }
     .texto-principal {
     margin-right: 20%; 
