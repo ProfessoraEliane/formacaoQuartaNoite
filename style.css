@@ -1,5 +1,6 @@
 body {
     background-color:#5c5550;
+    
 }
 header {
     background: white;
@@ -56,3 +57,20 @@ p {
 }
 .principal h3 { text-align: center;
 font-weight: bolder;}
+
+footer{background: #032829;
+    padding: 20px;
+}
+.rodape{ 
+    text-align: center;
+    color: rgb(165, 203, 241);
+}
+nav li :hover {
+    color: rgb(217, 18, 18);
+    font-size: 30px;
+    } 
+.principal li :active{
+    font-size: 40px;
+    color: aqua;
+    background-color: rgb(146, 13, 104);
+}
