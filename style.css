@@ -49,7 +49,10 @@ p {
 
 .principal li {
     display: inline-block;
-    border: 2px solid black;
+    border: 10px solid black;
+    margin-left: 10px;
+    padding: 10px;
+    border-radius: 36px 41px 1px 7px;
 }
 .principal h3 { text-align: center;
 font-weight: bolder;}
